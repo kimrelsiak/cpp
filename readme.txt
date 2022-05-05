@@ -8,10 +8,10 @@ Odcinek pierwszy
 Zadania:
 
 1.      Napisz program "Hello World"
-        Nazwa folderu z kodem: Ep1\helloWorld
+        Nazwa folderu z kodem: Ep1\HelloWorld
 
 2.      Napisz program "Imieniny Jasia"
-        Nazwa folderu z kodem: Ep1\imieninyJasia // W folderze masz przygotowany opis zadania w pdf oraz przykładowe rozwiązanie. Nie kopiuj na pałę postaraj się napisać sam.
+        Nazwa folderu z kodem: Ep1\ImieninyJasia // W folderze masz przygotowany opis zadania w pdf oraz przykładowe rozwiązanie. Nie kopiuj na pałę postaraj się napisać sam.
 
 
 Odcinek drugi
