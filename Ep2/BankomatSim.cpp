@@ -17,5 +17,5 @@ int main()
     {
         cout<<"Niewlasciwy PIN";
     }
-
+    return 0;
 }
