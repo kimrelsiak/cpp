@@ -20,3 +20,5 @@ int main()
 
     return 0;
 }
+
+//a tu masz przykładowe rozwiązanie tylko proszę myśl sam a nie kopiuj na pałę
