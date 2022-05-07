@@ -29,5 +29,13 @@ Zadania:
 Odcinek trzeci
 
 Zadania:
+1.      program "PetlaForRakieta"
+        Nazwa folderu z kodem: Ep3\PetlaForRakieta
+
+2.      program "PetlaForImie"
+        Nazwa folderu z kodem: Ep3\PetlaForImie
+
+3.      program "PetlaWhileBakteria"
+        Nazwa folderu z kodem: Ep3\PetlaWhileBakteria
 
 tu podaj listę plików w których są zadania rozwiązane przez Ciebie samodzielnie
