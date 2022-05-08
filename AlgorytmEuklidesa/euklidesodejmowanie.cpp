@@ -17,9 +17,8 @@ cout<<"*****"<<endl;
 cout<<a<<endl;
 cout<<b<<endl;
 cout<<"#######"<<endl;
-
 }
-
+    cout<<"Najwiekszy wspolny dzielnik:"<<a<<endl;
     return 0;
 }
 
