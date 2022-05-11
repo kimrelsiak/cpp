@@ -39,3 +39,5 @@ Zadania:
         Nazwa folderu z kodem: Ep3\PetlaWhileBakteria
 
 tu podaj listę plików w których są zadania rozwiązane przez Ciebie samodzielnie
+
+https://miro.com/welcomeonboard/bkxyT3BBNWo3YVFLTjN4c1lGTkdtRllyVjdmdzdzbTlPN2pxYnNZNmlSb0ZJNDNoZnd0dXdsaVM2MnBLSnVnNXwzNDU4NzY0NTE5ODI3NzI3MDg3?share_link_id=481216664651
