@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int a,b;
+int a,b,x;
 
 int main()
 {
@@ -13,6 +13,13 @@ int main()
 
     cout<<a<<endl;
     cout<<b<<endl;
+    
+  while(b!=0){
+      x=a%b;
+      a=b;
+      b=x;
+  }
+
 
     cout<<"Największy wspólny dzielnik to:"<<a<<endl;
 
