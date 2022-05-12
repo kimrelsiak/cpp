@@ -1,24 +1,31 @@
-#include    <iostream>
+#include <iostream>
 
 using namespace std;
 
-int a, b;
+int a,b;
 
 int main()
-{   
+{
     cout<<"Podaj liczbe a:"<<endl;
     cin>>a;
-    cout<<"Podaj liczbe b:";
+    cout<<"Podaj liczbe b:"<<endl;
     cin>>b;
 
+    cout<<a<<endl;
+    cout<<b<<endl;
+
     while(a!=b)
-{
-cout<<"*****"<<endl;        
-cout<<a<<endl;
-cout<<b<<endl;
-cout<<"#######"<<endl;
-}
-    cout<<"Najwiekszy wspolny dzielnik:"<<a<<endl;
+    {
+        if(a>b){
+        a=a-b;
+        }
+        else{
+        b=b-a;
+        }
+    }
+    cout<<"Największy wspólny dzielnik to:"<<a<<endl;
+
+
     return 0;
 }
 
