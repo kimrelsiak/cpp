@@ -11,8 +11,8 @@ int main()
     cout<<"Podaj liczbe b:"<<endl;
     cin>>b;
 
-    cout<<a<<endl;
-    cout<<b<<endl;
+   /* cout<<a<<endl;
+    cout<<b<<endl; */
 
     while(a!=b)
     {
