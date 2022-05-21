@@ -41,5 +41,11 @@ Zadania:
 3.      program "PetlaWhileBakteria"
         Nazwa folderu z kodem: Ep3\PetlaWhileBakteria
 
+Odcinek czwarty
+
+Zadania:
+1.      program "ZgadnijLiczbe"
+        Nazwa folderu z kodem:Ep4\ZgadnijLiczbe
+
 tu podaj listę plików w których są zadania rozwiązane przez Ciebie samodzielnie
 
