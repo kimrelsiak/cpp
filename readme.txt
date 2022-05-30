@@ -56,7 +56,8 @@ Zadania:
 1.      program "Srednia"
         Nazwa folderu z kodem:Ep5\Srednia
 
-2.
+2.      program "Fibonacci"
+        Nazwa folderu z kodem:Ep5\Fibonacci
 
 tu podaj listę plików w których są zadania rozwiązane przez Ciebie samodzielnie
 
