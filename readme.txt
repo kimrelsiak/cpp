@@ -47,5 +47,8 @@ Zadania:
 1.      program "ZgadnijLiczbe"
         Nazwa folderu z kodem:Ep4\ZgadnijLiczbe
 
+2.      program "SymulatorLoterii"
+        Nazwa folderu z kodem:Ep4\SymulatorLoterii
+
 tu podaj listę plików w których są zadania rozwiązane przez Ciebie samodzielnie
 
