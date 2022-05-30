@@ -50,5 +50,13 @@ Zadania:
 2.      program "SymulatorLoterii"
         Nazwa folderu z kodem:Ep4\SymulatorLoterii
 
+Odcinek Piąty 
+
+Zadania:
+1.      program "Srednia"
+        Nazwa folderu z kodem:Ep5\Srednia
+
+2.
+
 tu podaj listę plików w których są zadania rozwiązane przez Ciebie samodzielnie
 
